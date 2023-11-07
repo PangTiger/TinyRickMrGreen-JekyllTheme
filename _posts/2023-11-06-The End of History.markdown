@@ -1,5 +1,6 @@
+---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: "id_Examples"
+lng_pair: "d_Examples
 title: "The end of the history of carbon-based life: The Golden Age for Silicon Intelligence"
 
 # post specific
@@ -31,10 +32,10 @@ on_site_search_exclude: false
 search_engine_exclude: false
 # To disable this page, simply set published: false or delete this file
 published: true
-
+---
 
 This is a random thought.
----
+
 
 A bigwig at Alibaba said,
 "Every industry deserves to be redone with large models."
