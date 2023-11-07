@@ -39,6 +39,19 @@ img: ":about.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 <!-- Your custom text content starts here -->
-I am a 3-year PhD candidate at HKUST ECE department under the supervision of Prof. Xu Jiang and Prof. Zhang Wei.
+As an aspiring innovator in the field of electronic and computer engineering, I am currently pursuing my Ph.D. at HKUST. My academic rigor was honed during my Bachelor's studies at Sun Yat-sen University, focusing on Microelectronics Science and Engineering, where I graduated with an impressive GPA of 3.9/4.0.
 
+My research interests have materialized into significant contributions, such as the PHANES project - a ReRAM-based photonic accelerator aimed at propelling deep neural network capabilities, presented to the Association for Computing Machinery in July 2022.
+
+My dedication to excellence has been recognized through several prestigious awards:
+
+Huawei Excellent Student Scholarship - An honor bestowed by Huawei Company and Sun Yat-sen University for exceptional academic performance in November 2019.
+
+First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling - Awarded by the Organizing Committee of the Guangdong Province Division of the National College Students Mathematical Contest in Modeling in October 2019.
+
+Third Prize in the National Undergraduate Electronics Design Contest - Presented by the Organizing Committee of the Guangdong Province Division of the National Undergraduate Electronic Design Competition in September 2019.
+
+The First Prize Excellent Student Scholarship - Conferred by the School of Electronics and Information Technology, SYSU, in recognition of academic distinction in September 2018.
+
+My technical interests span from theoretical underpinnings to practical applications, particularly in programming and the design of analog integrated circuits. I am committed to contributing to advances in deep neural network capabilities, as evidenced by my work on the PHANES project - a ReRAM-based photonic accelerator presented to the Association for Computing Machinery.
 <!-- Your custom text content ends here -->
