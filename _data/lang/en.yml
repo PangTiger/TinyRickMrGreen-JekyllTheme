@@ -171,9 +171,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
-  welcome: Welcome
-  sample: Sample
+  greetings: Hello~
+  welcome: Welcome！
+  sample: I am a 3-year PhD candidate at HKUST ECE department, under the supervision of Prof. Xu Jiang and Prof. Zhang Wei.
 
 # for contact form
 contact_form:
