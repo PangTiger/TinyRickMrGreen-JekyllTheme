@@ -1,5 +1,5 @@
 ---
-lng_pair:id_What_is_this
+lng_pair: id_What_is_this
 
 title: "The End of the history of carbon-based life: The Golden Age for Silicon Intelligence"
 
@@ -17,7 +17,7 @@ date: 2023-11-06 08:11:06 +0900
 
 # seo
 # If not specified, date will be used.
- meta_modify_date: 2022-02-10 08:11:06 +0900
+meta_modify_date: 2022-02-10 08:11:06 +0900
 # check the meta_common_description in _data/owner/[language].yml
 meta_description: "Explore the potential end of carbon-based life dominance and the rise of silicon intelligence in the 21st century."
 
