@@ -174,7 +174,7 @@ page_data:
     # picture
     - type: id_finished
       project_name: "PHANES: Optical Interconnect ReRAM Accelerator"
-      project_excerpt: "Picture"
+      project_excerpt: "Finished"
       img: ":project2_thumb.jpg"
       img_title: "img title2"
       date: "2021-09-30"
