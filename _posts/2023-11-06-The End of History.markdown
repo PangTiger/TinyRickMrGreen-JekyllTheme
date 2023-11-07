@@ -1,6 +1,9 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-title: "The end of the history of carbon-based life: The Golden Age for Silicon Intelligence"
+lng_pair: id_What_is_this
+
+
+title: "aaThe end of the history of carbon-based life: The Golden Age for Silicon Intelligence"
 
 # post specific
 author: Mr. Jiaqi
