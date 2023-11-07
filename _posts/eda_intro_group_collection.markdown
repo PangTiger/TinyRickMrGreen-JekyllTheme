@@ -1,6 +1,5 @@
----
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_What_is_this
+lng_pair: "id_What_is_this"
 title: "Welcome to EDA Groups in HongKong!"
 
 # post specific
@@ -36,11 +35,13 @@ date: 2023-11-06 10:04:30 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
----
+published: true
+
 <!-- outline-start -->
 
-Translation: I'll only speak of the research groups in Hong Kong universities that I'm familiar with. The following information mainly comes from the personal homepages of the professors, and I will try to minimize subjective judgments. I also ask the professors not to mind my response, as this is just an information window for students who want to learn more about these groups. If there are any errors or anything that may seem offensive, please point them out decisively!
+I'll only speak of the research groups in Hong Kong universities that I'm familiar with. The following information mainly comes from the personal homepages of the professors, and I will try to minimize subjective judgments. I also ask the professors not to mind my response, as this is just an information window for students who want to learn more about these groups. If there are any errors or anything that may seem offensive, please point them out decisively!
+
+<!-- outline-end --> 
 
 CUHK:
 Prof. Yu Bei, Prof. Evangeline F.Y. Young
@@ -84,4 +85,4 @@ Check out the [CUHK EDA Center][CUHK-EDA-Center], [Prof. Yu Bei][Yu-Bei], [Prof.
 [Xie-Yuan]: https://www.ece.hkust.edu.hk/people/yuan-xie
 [Xie-Zhiyao]: https://zhiyaoxie.com/
 
-<!-- outline-end --> 
+
