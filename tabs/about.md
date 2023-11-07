@@ -47,7 +47,7 @@ Greetings! I am Liu Jiaqi, affectionately known as Rick. Currently, I am immerse
 With a robust academic background from Sun Yat-sen University, where I specialized in Microelectronics Science and Engineering, I graduated with a distinguished GPA of 3.9/4.0.
 
 ## Research Interests
-My investigative pursuits are twofold, encompassing AI chip design bolstered by large models and the architectures and compilers aimed at accelerating these extensive AI models.
+My investigative pursuits are twofold, encompassing AI chip design bolstered by large language models and the architectures and compilers aimed at accelerating these extensive AI models.
 
 ## Scholarly Contributions
 I have contributed numerous papers to top-tier conferences in the EDA and architectural domains, including but not limited to prestigious CCF-A&B category venues like DAC, ICCAD, and ASP-DAC.
