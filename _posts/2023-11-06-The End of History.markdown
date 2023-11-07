@@ -3,7 +3,7 @@
 lng_pair: id_What_is_this
 
 
-title: "aaThe end of the history of carbon-based life: The Golden Age for Silicon Intelligence"
+title: "The End of the history of carbon-based life: The Golden Age for Silicon Intelligence"
 
 # post specific
 author: Mr. Jiaqi
