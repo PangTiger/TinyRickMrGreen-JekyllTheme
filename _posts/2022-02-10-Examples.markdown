@@ -43,9 +43,6 @@ date: 2023-11-6 08:11:06 +0900
 
 This is a random thought.
 
-<!-- outline-end -->
-
-
 A bigwig at Alibaba said,
 "Every industry deserves to be redone with large models."
 I would like to extend this to become,
@@ -55,7 +52,7 @@ Because as long as it is a task that humans can perform,
 whether it is in mathematics, physics, engineering research,
 or in painting, music, art,
 it is possible to use artificial intelligence to try to imitate or replace humans at work.
-This is not just AI for Science, but AI for X,
+This is not just AI for Science but AI for X,
 where X stands for everything.
 
 For example, in our field, it means using AI to design chips,
@@ -75,11 +72,12 @@ If future LLMs can design chips themselves,
 designing chips that run LLM AI,
 it means they are capable of self-replication and regeneration,
 which then have the potential for optimization and even evolution,
-beginning to infinitely approach carbon-based life.
+beginning to approach carbon-based life infinitely.
 A new era may really be coming.
 
 I do not know if the 21st century is the century of biology,
 but I do know that the 21st century will definitely be the century of a massive explosion of silicon-based life.
 This may be the most spectacular industrial revolution in human history,
 and it may also be the end of the history of carbon-based life's dominance.
-```
+
+<!-- outline-end -->
