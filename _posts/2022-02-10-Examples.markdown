@@ -4,42 +4,35 @@ lng_pair: id_Examples
 title: The end of the history of carbon-based life: The Golden Age for Silicon Intelligence
 
 # post specific
-# if not specified, .name will be used from _data/owner/[language].yml
 author: Mr. Jiaqi
-# multiple category is not supported
 category: jekyll
-# multiple tag entries are possible
 tags: [jekyll, sample, example post]
-# thumbnail image for post
-img: ":post_pic1.jpg"
-# disable comments on this page
-#comments_disable: true
+img: post_pic1.jpg  # Removed the colon ":" and ensure the image file name is correct
+
+# Disable comments on this page
+comments_disable: true
 
 # publish date
-date: 2023-11-6 08:11:06 +0900
+date: 2023-11-06 08:11:06 +0900
 
 # seo
-# if not specified, date will be used.
-#meta_modify_date: 2022-02-10 08:11:06 +0900
+# If not specified, date will be used.
+# meta_modify_date: 2022-02-10 08:11:06 +0900
 # check the meta_common_description in _data/owner/[language].yml
-#meta_description: ""
+# meta_description: "Explore the potential end of carbon-based life dominance and the rise of silicon intelligence in the 21st century."
 
-# optional
-# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
-# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
-#image_viewer_on: true
-# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
-# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
-#image_lazy_loader_on: true
-# exclude from on site search
-#on_site_search_exclude: true
-# exclude from search engines
-#search_engine_exclude: true
-# to disable this page, simply set published: false or delete this file
-#published: false
+# optional settings
+# To enable image viewer for this page, uncomment the following line
+# image_viewer_on: true
+# To enable image lazy loader for this page, uncomment the following line
+# image_lazy_loader_on: true
+# Exclude from on site search
+# on_site_search_exclude: true
+# Exclude from search engines
+# search_engine_exclude: true
+# To disable this page, simply set published: false or delete this file
+published: true
 ---
-
-<!-- outline-start -->
 
 This is a random thought.
 
@@ -79,5 +72,3 @@ I do not know if the 21st century is the century of biology,
 but I do know that the 21st century will definitely be the century of a massive explosion of silicon-based life.
 This may be the most spectacular industrial revolution in human history,
 and it may also be the end of the history of carbon-based life's dominance.
-
-<!-- outline-end -->
