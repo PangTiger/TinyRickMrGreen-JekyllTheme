@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_eda
+lng_pair: id_What_is_this
 title: "The end of the history of carbon-based life: The Golden Age for Silicon Intelligence"
 
 # post specific
