@@ -17,24 +17,25 @@ date: 2023-11-06 08:11:06 +0900
 
 # seo
 # If not specified, date will be used.
-# meta_modify_date: 2022-02-10 08:11:06 +0900
+ meta_modify_date: 2022-02-10 08:11:06 +0900
 # check the meta_common_description in _data/owner/[language].yml
-# meta_description: "Explore the potential end of carbon-based life dominance and the rise of silicon intelligence in the 21st century."
+meta_description: "Explore the potential end of carbon-based life dominance and the rise of silicon intelligence in the 21st century."
 
 # optional settings
 # To enable image viewer for this page, uncomment the following line
-# image_viewer_on: true
+image_viewer_on: true
 # To enable image lazy loader for this page, uncomment the following line
-# image_lazy_loader_on: true
+image_lazy_loader_on: true
 # Exclude from on site search
-# on_site_search_exclude: true
+on_site_search_exclude: false
 # Exclude from search engines
-# search_engine_exclude: true
+search_engine_exclude: false
 # To disable this page, simply set published: false or delete this file
 published: true
----
+
 
 This is a random thought.
+---
 
 A bigwig at Alibaba said,
 "Every industry deserves to be redone with large models."
