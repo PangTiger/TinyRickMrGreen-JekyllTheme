@@ -39,18 +39,30 @@ img: ":about.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 <!-- Your custom text content starts here -->
-As an aspiring innovator in the field of electronic and computer engineering, I am currently pursuing my Ph.D. at HKUST. My academic rigor was honed during my Bachelor's studies at Sun Yat-sen University, focusing on Microelectronics Science and Engineering, where I graduated with an impressive GPA of 3.9/4.0.
 
-My technical interests span from theoretical underpinnings to practical applications, particularly in programming and the design of analog integrated circuits. I am committed to contributing to advances in deep neural network capabilities, as evidenced by my work on the PHANES project - a ReRAM-based photonic accelerator presented to the Association for Computing Machinery.
+# Liu Jiaqi (Rick)
 
-My dedication to excellence has been recognized through several prestigious awards:
+Greetings! I am Liu Jiaqi, affectionately known as Rick. Currently, I am immersed in the complexities of my Ph.D. studies in electronic and computer engineering at HKUST.
 
-Huawei Excellent Student Scholarship - An honor bestowed by Huawei Company and Sun Yat-sen University for exceptional academic performance in November 2019.
+With a robust academic background from Sun Yat-sen University, where I specialized in Microelectronics Science and Engineering, I graduated with a distinguished GPA of 3.9/4.0.
 
-First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling - Awarded by the Organizing Committee of the Guangdong Province Division of the National College Students Mathematical Contest in Modeling in October 2019.
+## Research Interests
+My investigative pursuits are twofold, encompassing AI chip design bolstered by large models and the architectures and compilers aimed at accelerating these extensive AI models.
 
-Third Prize in the National Undergraduate Electronics Design Contest - Presented by the Organizing Committee of the Guangdong Province Division of the National Undergraduate Electronic Design Competition in September 2019.
+## Scholarly Contributions
+I have contributed numerous papers to top-tier conferences in the EDA and architectural domains, including but not limited to prestigious CCF-A&B category venues like DAC, ICCAD, and ASP-DAC.
 
-The First Prize Excellent Student Scholarship - Conferred by the School of Electronics and Information Technology, SYSU, in recognition of academic distinction in September 2018.
+## Peer Review and Editorial Roles
+In recognition of my expertise, I serve as a peer reviewer for several ACM/IEEE journals and conferences. My editorial contributions span respected publications such as TVLSI, TCAD, and conferences including DAC and ASP-DAC.
+
+## Accolades
+My academic journey has been marked by notable honors:
+
+- **Huawei Excellent Student Scholarship** (November 2019): Presented by Huawei and Sun Yat-sen University for outstanding scholastic achievements.
+- **First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling** (October 2019): From the Guangdong Province Division of the National College Students Mathematical Contest.
+- **Third Prize in the National Undergraduate Electronics Design Contest** (September 2019): Recognized by the national committee for my inventive contributions.
+- **The First Prize Excellent Student Scholarship** (September 2018): From SYSU's School of Electronics and Information Technology for academic excellence.
+
+I am propelled by a passion for advancing the field of electronic and computer engineering and am committed to contributing meaningful innovations.
 
 <!-- Your custom text content ends here -->
