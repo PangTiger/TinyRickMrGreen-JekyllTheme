@@ -39,7 +39,9 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+<!-- Your custom text content starts here -->
+This is my personal webpage. Welcome to contact me at jiaqi.liu@connect.ust.hk.
 
-{{ website_info_text_second }}
+
+<!-- Your custom text content ends here -->
+
