@@ -18,8 +18,6 @@ img: ":post_pic1.jpg"
 # disable comments on this page
 #comments_disable: true
 
-comments_disable: true
-
 # publish date
 date: 2023-11-06 08:11:06 +0900
 
