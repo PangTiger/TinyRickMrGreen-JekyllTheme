@@ -30,7 +30,9 @@ layout: default
             {%- assign page_title = post.title -%}
             {%- include util/auto-content-post-title-rename.liquid title = page_title -%}
             
-            <a href="{{ site.baseurl }}{{ _post.url }}">{{ page_title }}}</a>
+            <a href="{{ site.baseurl }}{{ _post.url }}">{{ page_title }}
+        <span>{{ _post.date | date: out_date_format }}</span>
+      </a>
           </li>
         {%- endfor %}
         </ul>
