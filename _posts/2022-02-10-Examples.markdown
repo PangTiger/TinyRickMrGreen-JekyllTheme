@@ -45,8 +45,6 @@ This is a random thought.
 
 <!-- outline-end -->
 
-### Be Crazy!
-{:data-align="center"}
 
 A bigwig at Alibaba said,
 "Every industry deserves to be redone with large models."
