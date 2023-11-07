@@ -5,21 +5,21 @@
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    info: "Many Projects are Looking for Collaboration!"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "Finished"
+      type: id_finished
       color: "gray"
-    - title: "Picture"
-      type: id_picture
+    - title: "On-going"
+      type: id_ongoing
       color: "#62b462"
-    - title: "Quote"
-      type: id_quote
+    - title: "Future Work"
+      type: id_future
       color: "#2FD0ED"
 
   list:
@@ -172,7 +172,7 @@ page_data:
     #     ```
 
     # picture
-    - type: id_picture
+    - type: id_finished
       project_name: "PHANES: Optical Interconnect ReRAM Accelerator"
       project_excerpt: "Picture"
       img: ":project2_thumb.jpg"
