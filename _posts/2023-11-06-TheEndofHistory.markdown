@@ -1,16 +1,15 @@
 ---
-lng_pair: id_What_is_this
-
+lng_pair:id_What_is_this
 
 title: "The End of the history of carbon-based life: The Golden Age for Silicon Intelligence"
 
-# post specific
+
 author: Mr. Jiaqi
 category: jekyll
 tags: [jekyll, sample, example post]
 img: post_pic1.jpg  # Removed the colon ":" and ensure the image file name is correct
 
-# Disable comments on this page
+
 comments_disable: true
 
 # publish date
