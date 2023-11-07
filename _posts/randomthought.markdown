@@ -1,4 +1,3 @@
----
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: "id_Examples"
 title: "The end of the history of carbon-based life: The Golden Age for Silicon Intelligence"
