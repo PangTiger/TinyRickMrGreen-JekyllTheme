@@ -44,7 +44,7 @@ img: ":home-heading.jpg"
 # Welcome to Liu Jiaqi's (Rick) Academic Portfolio
 
 ## About Me
-As a Ph.D. candidate at HKUST, my research is at the intersection of AI chip design and computational architectures, with a focus on innovative applications in electronic and computer engineering.
+As a third-year Ph.D. candidate at HKUST, my research is at the intersection of AI chip design and computational architectures, with a focus on innovative applications in electronic and computer engineering.
 
 ## Collaboration
 I am always open to collaborative opportunities that push the boundaries of technology and contribute to our understanding and capabilities in this field. 
@@ -54,7 +54,7 @@ My investigative pursuits are twofold:
 - Architectures and compilers for accelerating large language models(LLM)
 
 ---
-Should you wish to discuss potential projects or research, feel free to reach out to me at [jiaqi.liu@connect.ust.hk](mailto:jiaqi.liu@connect.ust.hk).
+If you are intereste to discuss potential projects or research, feel free to reach out to me at [jiaqi.liu@connect.ust.hk](mailto:jiaqi.liu@connect.ust.hk).
 
 
 
