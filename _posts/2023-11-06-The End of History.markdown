@@ -34,6 +34,7 @@ search_engine_exclude: false
 published: true
 ---
 
+<!-- outline-start -->
 This is a random thought.
 
 
@@ -73,3 +74,4 @@ I do not know if the 21st century is the century of biology,
 but I do know that the 21st century will definitely be the century of a massive explosion of silicon-based life.
 This may be the most spectacular industrial revolution in human history,
 and it may also be the end of the history of carbon-based life's dominance.
+<!-- outline-end -->
