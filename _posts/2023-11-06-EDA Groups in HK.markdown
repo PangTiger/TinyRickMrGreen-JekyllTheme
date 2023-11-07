@@ -56,26 +56,37 @@ According to the homepage description, Professor Wong's research interests focus
 
 HKUST:
 As I am a student at HKUST, I am more familiar with our situation, so I will introduce a bit more here. I won’t post the teachers’ homepages, but they can be found with a search.
+
 Prof. Xie Yuan,
 Professor Xie Yuan joined HKUST this year from UCSB as the chair professor of the ECE department. His citations number in the tens of thousands, which is very rare in our field, definitely making him a leading figure in the architecture field. He is also a triple Fellow of IEEE+ACM+AAAS (which is very impressive).
+
 Prof. Xie Zhiyao,
 Professor Xie Zhiyao is currently at HKUST’s Clear Water Bay campus. He completed his Ph.D. under Professor Yi-Ran Chen from Duke and won the Best Paper at MICRO2021, which makes him a very impressive new AP. I had the privilege of attending his class and found him to be a scholar with a gentle and elegant style. He is very young and at first glance, looks just like an undergraduate student.
+
 Prof. Zhang Wei,
 Professor Zhang Wei and Professor Xu Jiang are my advisors. Professor Zhang mainly focuses on FPGA/HLS/Accelerators and has published many influential papers on HLS generation frameworks and automation algorithms. In recent years, her group has won the ICCAD Best Paper award multiple times.
+
 Prof. Xu Jiang,
 Professor Xu is currently the head of the Department of Electronic and Computer Engineering at HKUST. He completed his Ph.D. at Princeton University, working mainly on architectural CPU&GPU&NoC/Accelerators/optical computing & interconnects. He has published many articles at major conferences and journals in the EDA field. His recent work on LLM in trace synthesis just won the Best Paper Award at the MemSys conference.
+
 Prof. Cheng Kwang-Ting,
 Professor Tim is currently the Vice-President of HKUST, was the Dean of Engineering before, and Vice-Chancellor at UCSB prior to that. His group mainly works on medical image processing and computing-storage chips.
+
 Prof. Tu Fengbin,
 Professor Tu, another new AP at the Clear Water Bay campus of HKUST, has published several papers on SRAM in-memory computing at ISSCC+ISCA. He completed his Ph.D. at THU and did a postdoc in Professor Xie Yuan's group at UCSB. He is likely continuing his work on EDA and architectural design related to in-memory computing.
+
 Prof. Ma Yuzhe,
 Professor Ma Yuzhe, a prominent disciple of Professor Yu Bei, is also serving as an AP at HKUST and has had impressive recent outputs, having just won the Best Paper Award at MLCAD.
+
 Prof. Huang Jiayi,
 Professor Huang joined HKUST last year, completed his Ph.D. at TAMU, and has published several articles on NoC at top architecture conferences like HPCA, ISCA, and MICRO.
+
 Prof. Lyu Yangdi,
 Professor Lyu joined HKUST in the last two years, completed his Ph.D. at the University of Florida, and conducts research in security, also producing much output at major EDA conferences.
+
 Prof. Zhang Hongce,
 Professor Zhang graduated from Princeton and mainly works on formal verification. He has published papers at top theoretical computer science conferences and has been prolific at EDA conferences as well.
+
 Overall, HKUST’s ECE Department and the microelectronics area have recruited several very impressive professors in the last two years, with layouts in architecture/EDA/circuits and substantial resource investment. I hope HKUST’s research will continue to improve and we warmly welcome all outstanding students and scholars to join UST, to have fun and publish papers together!
 
 Check out the [CUHK EDA Center][CUHK-EDA-Center], [Prof. Yu Bei][Yu-Bei], [Prof. Evangeline F.Y. Young][Evangeline-F-Y-Young],[Prof. Wong N][Wong-N], and [Prof. Xie Yuan][Xie-Yuan]'s webs.
