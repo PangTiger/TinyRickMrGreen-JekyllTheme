@@ -40,9 +40,22 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 <!-- Your custom text content starts here -->
-I am a 3-year PhD candidate at HKUST ECE department under the supervision of Prof. Xu Jiang and Prof. Zhang Wei.
 
-This is my personal webpage. Welcome to contact me at jiaqi.liu@connect.ust.hk.
+# Welcome to Liu Jiaqi's (Rick) Academic Portfolio
+
+## About Me
+As a Ph.D. candidate at HKUST, my research is at the intersection of AI chip design and computational architectures, with a focus on innovative applications in electronic and computer engineering.
+
+## Collaboration
+I am always open to collaborative opportunities that push the boundaries of technology and contribute to our understanding and capabilities in this field. 
+
+My investigative pursuits are twofold:
+- Encompassing AI chip design assisted by large language models(LLM)
+- Architectures and compilers for accelerating large language models(LLM)
+
+---
+Should you wish to discuss potential projects or research, feel free to reach out to me at [jiaqi.liu@connect.ust.hk](mailto:jiaqi.liu@connect.ust.hk).
+
 
 
 <!-- Your custom text content ends here -->
