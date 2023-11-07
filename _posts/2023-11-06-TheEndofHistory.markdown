@@ -4,11 +4,19 @@ lng_pair: id_What_is_this
 title: "The End of the history of carbon-based life: The Golden Age for Silicon Intelligence"
 
 
-author: Mr. Jiaqi
-category: jekyll
-tags: [jekyll, sample, example post]
-img: post_pic1.jpg  # Removed the colon ":" and ensure the image file name is correct
 
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: Mr. Jiaqi
+# multiple category is not supported
+category: jekyll
+# multiple tag entries are possible
+tags: [jekyll, example post, sample, test]
+# thumbnail image for post
+img: ":post_pic1.jpg"
+# disable comments on this page
+#comments_disable: true
 
 comments_disable: true
 
