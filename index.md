@@ -40,6 +40,8 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 <!-- Your custom text content starts here -->
+I am a 3-year PhD candidate at HKUST ECE department under the supervision of Prof. Xu Jiang and Prof. Zhang Wei.
+
 This is my personal webpage. Welcome to contact me at jiaqi.liu@connect.ust.hk.
 
 
