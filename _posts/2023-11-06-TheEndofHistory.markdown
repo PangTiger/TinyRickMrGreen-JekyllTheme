@@ -3,9 +3,6 @@ lng_pair: id_What_is_this
 
 title: "The End of the history of carbon-based life: The Golden Age for Silicon Intelligence"
 
-
-
-
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 author: Mr. Jiaqi
