@@ -41,7 +41,7 @@ img: ":about.jpg"
 <!-- Your custom text content starts here -->
 As an aspiring innovator in the field of electronic and computer engineering, I am currently pursuing my Ph.D. at HKUST. My academic rigor was honed during my Bachelor's studies at Sun Yat-sen University, focusing on Microelectronics Science and Engineering, where I graduated with an impressive GPA of 3.9/4.0.
 
-My research interests have materialized into significant contributions, such as the PHANES project - a ReRAM-based photonic accelerator aimed at propelling deep neural network capabilities, presented to the Association for Computing Machinery in July 2022.
+My technical interests span from theoretical underpinnings to practical applications, particularly in programming and the design of analog integrated circuits. I am committed to contributing to advances in deep neural network capabilities, as evidenced by my work on the PHANES project - a ReRAM-based photonic accelerator presented to the Association for Computing Machinery.
 
 My dedication to excellence has been recognized through several prestigious awards:
 
@@ -53,5 +53,4 @@ Third Prize in the National Undergraduate Electronics Design Contest - Presented
 
 The First Prize Excellent Student Scholarship - Conferred by the School of Electronics and Information Technology, SYSU, in recognition of academic distinction in September 2018.
 
-My technical interests span from theoretical underpinnings to practical applications, particularly in programming and the design of analog integrated circuits. I am committed to contributing to advances in deep neural network capabilities, as evidenced by my work on the PHANES project - a ReRAM-based photonic accelerator presented to the Association for Computing Machinery.
 <!-- Your custom text content ends here -->
