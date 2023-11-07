@@ -1,5 +1,6 @@
+---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: "id_What_is_this"
+lng_pair: id_What_is_this
 title: "Welcome to EDA Groups in HongKong!"
 
 # post specific
@@ -35,7 +36,8 @@ date: 2023-11-06 10:04:30 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: true
+#published: true
+---
 
 <!-- outline-start -->
 
