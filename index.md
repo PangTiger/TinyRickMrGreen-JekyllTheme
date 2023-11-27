@@ -48,7 +48,12 @@ As a third-year Ph.D. candidate at HKUST, my research is at the intersection of 
 
 ## About FreeCircuit
 Here is our introduction slide and video link:
-https://hkust.zoom.us/rec/share/0KVFRvqdZstKXlmTAusX-74GwzSAMY2JRnxpkm9qAydLq5ie-nnYw7e2mqk98sm0.z-dMhzC-s5EvWhbK?startTime=1701070453000
+
+Check out the [Fusi]'s video!
+
+[Fusi]: https://hkust.zoom.us/rec/share/0KVFRvqdZstKXlmTAusX-74GwzSAMY2JRnxpkm9qAydLq5ie-nnYw7e2mqk98sm0.z-dMhzC-s5EvWhbK?startTime=1701070453000
+
+
 Our goal is to build up an automatic slicon-based intelligence.
 
 The first step is to develop a Bus and Train Real-time Identification System with our own-designed chips.
