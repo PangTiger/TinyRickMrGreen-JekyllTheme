@@ -46,6 +46,17 @@ img: ":home-heading.jpg"
 ## About Me
 As a third-year Ph.D. candidate at HKUST, my research is at the intersection of AI chip design and computational architectures, with a focus on innovative applications in electronic and computer engineering.
 
+## About FreeCircuit
+Here is our introduction slide and video link:
+https://hkust.zoom.us/rec/share/0KVFRvqdZstKXlmTAusX-74GwzSAMY2JRnxpkm9qAydLq5ie-nnYw7e2mqk98sm0.z-dMhzC-s5EvWhbK?startTime=1701070453000
+Our goal is to build up an automatic slicon-based intelligence.
+
+The first step is to develop a Bus and Train Real-time Identification System with our own-designed chips.
+
+The future steps is to democratize the AGI chips and make it available for everyone in the WORLD!
+
+We don't need OpenAI, but we indeed need FreeCricuit!:)
+
 ## Collaboration
 I am always open to collaborative opportunities that push the boundaries of technology and contribute to our understanding and capabilities in this field. 
 
