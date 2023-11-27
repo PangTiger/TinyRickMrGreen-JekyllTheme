@@ -42,20 +42,24 @@ img: ":about.jpg"
 
 # Liu Jiaqi (Rick)
 
-Greetings! I am Liu Jiaqi, affectionately known as Rick. Currently, I am immersed in the complexities of my Ph.D. studies in electronic and computer engineering at HKUST.
+Greetings! I am Liu Jiaqi, affectionately known as Rick. Currently, I am immersed in the complexities of my Ph.D. studies in electronic and computer engineering at HKUST. With a robust academic background from Sun Yat-sen University, where I specialized in Microelectronics Science and Engineering, I graduated with a distinguished GPA of 3.9/4.0.
 
-With a robust academic background from Sun Yat-sen University, where I specialized in Microelectronics Science and Engineering, I graduated with a distinguished GPA of 3.9/4.0.
+# FreeCircuit, 弗思科技
+Currently, I am the Founder of FreeCircuit Team:)
 
-## Research Interests
+We are actively looking for cooperations including Funding/Tech/Business/Connections!
+
+
+## Personal Research Interests
 My investigative pursuits are twofold, encompassing AI chip design bolstered by large language models and the architectures and compilers aimed at accelerating these extensive AI models.
 
-## Scholarly Contributions
+## Personal Scholarly Contributions
 I have contributed numerous papers to top-tier conferences in the EDA and architectural domains, including but not limited to prestigious CCF-A&B category venues like DAC, ICCAD, and ASP-DAC.
 
-## Peer Review and Editorial Roles
+## Personal Peer Review and Editorial Roles
 In recognition of my expertise, I serve as a peer reviewer for several ACM/IEEE journals and conferences. My editorial contributions span respected publications such as TVLSI, TCAD, and conferences including DAC and ASP-DAC.
 
-## Accolades
+## Personal Accolades
 My academic journey has been marked by notable honors:
 
 - **Huawei Excellent Student Scholarship** (November 2019): Presented by Huawei and Sun Yat-sen University for outstanding scholastic achievements.
