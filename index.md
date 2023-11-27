@@ -41,7 +41,7 @@ img: ":home-heading.jpg"
 
 <!-- Your custom text content starts here -->
 
-# Welcome to Liu Jiaqi's (Rick) FreeCircuit(弗思科技） Team!
+# Welcome to FreeCircuit(弗思科技） Team!
 
 ## About Me
 As a third-year Ph.D. candidate at HKUST, my research is at the intersection of AI chip design and computational architectures, with a focus on innovative applications in electronic and computer engineering.
