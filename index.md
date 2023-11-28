@@ -62,6 +62,10 @@ The future steps is to democratize the AGI chips and make it available for every
 
 We don't need OpenAI, but we indeed need FreeCricuit :)
 
+Currently, our team's target is to build an AI chip using photonic interconnect and HBM memory chips, which is promising to compete with NVIDIA and AMD. We are targeting to integrate different electronic and photonic chiplets into a single unified silicon interposer, which is in progress with the help of CityU's team. This photonic-electronic hybrid AI chip is my ultimate goal for my PhD thesis.
+
+By the way, the FreeCircuit team is an independent worldwide open-source student research group and works for the non-profit target. We do have some collaborations with other PhD students from the Mainland, Europe, and the US. We are now not affiliated with any research labs or organizations. Currently, we are a PG student research team, and we are not a company now. We are also not looking for profit because we want to learn from the idea of an OpenAI company, although it might not be a good example now :) Our team's ultimate goal is to make AI chips as cheap as possible and give everyone on the earth equal rights to buy and use advanced artificial intelligence on our silicon chips. This is our vision and destiny in our team's DNA.
+
 ## Collaboration
 I am always open to collaborative opportunities that push the boundaries of technology and contribute to our understanding and capabilities in this field. 
 
