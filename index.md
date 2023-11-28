@@ -41,7 +41,7 @@ img: ":home-heading.jpg"
 
 <!-- Your custom text content starts here -->
 
-# Welcome to FreeCircuit(弗思科技) Team!
+# Welcome to FreeCircuit Team!
 
 ## About Me
 As a third-year Ph.D. candidate at HKUST, my research is at the intersection of AI chip design and computational architectures, with a focus on innovative applications in electronic and computer engineering.
@@ -49,9 +49,9 @@ As a third-year Ph.D. candidate at HKUST, my research is at the intersection of 
 ## About FreeCircuit
 Here is our introduction slide and video link:
 
-Check out the [Fusi]'s video!
+Check out the [FreeCircuit]'s video!
 
-[Fusi]: https://hkust.zoom.us/rec/share/0KVFRvqdZstKXlmTAusX-74GwzSAMY2JRnxpkm9qAydLq5ie-nnYw7e2mqk98sm0.z-dMhzC-s5EvWhbK?startTime=1701070453000
+[FreeCircuit]: https://hkust.zoom.us/rec/share/0KVFRvqdZstKXlmTAusX-74GwzSAMY2JRnxpkm9qAydLq5ie-nnYw7e2mqk98sm0.z-dMhzC-s5EvWhbK?startTime=1701070453000
 
 
 Our goal is to build up an automatic slicon-based intelligence.
@@ -60,7 +60,7 @@ The first step is to develop a Bus and Train Real-time Identification System wit
 
 The future steps is to democratize the AGI chips and make it available for everyone in the WORLD!
 
-We don't need OpenAI, but we indeed need FreeCricuit!:)
+We don't need OpenAI, but we indeed need FreeCricuit :)
 
 ## Collaboration
 I am always open to collaborative opportunities that push the boundaries of technology and contribute to our understanding and capabilities in this field. 
