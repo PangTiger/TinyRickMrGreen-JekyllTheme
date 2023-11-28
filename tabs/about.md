@@ -44,7 +44,7 @@ img: ":about.jpg"
 
 Greetings! I am Liu Jiaqi, affectionately known as Rick. Currently, I am immersed in the complexities of my Ph.D. studies in electronic and computer engineering at HKUST. With a robust academic background from Sun Yat-sen University, where I specialized in Microelectronics Science and Engineering, I graduated with a distinguished GPA of 3.9/4.0.
 
-# FreeCircuit, 弗思科技
+# FreeCircuit
 Currently, I am the Founder of FreeCircuit Team:)
 
 We are actively looking for cooperations including Funding/Tech/Business/Connections!
