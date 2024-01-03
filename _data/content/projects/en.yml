@@ -42,3 +42,18 @@ page_data:
         ### Link
         This is [link to the paper published on DAC'22](https://dl.acm.org/doi/10.1145/3489517.3530397).
         ![Image](:project2_thumb.jpg)
+
+    - type: id_your_category  # 这里需要替换成相应的分类标识，例如id_finished或id_ongoing
+      project_name: "OpticalHDC: Ultra-fast Photonic Hyperdimensional Computing Accelerator"
+      project_excerpt: "In submission"  # 这里根据项目状态可以进行调整
+      img: ":your_image_path.jpg"  # 替换为项目图片的路径
+      img_title: "OpticalHDC Project Image"  # 图片标题
+      date: "2024-01-03"  # 根据实际日期进行调整
+      post: |
+        # OpticalHDC: Ultra-fast Photonic Hyperdimensional Computing Accelerator
+        **Authors:** Jiaqi Liu, Peiyu Chen, Wei Zhang, Jiang Xu.
+        
+        In this paper, we propose the first Photonic Hyperdimensional Computing (HDC) accelerator to overcome the challenges of high-dimensional data processing. Our accelerator incorporates a Microring-based homogenous configurable Photon-Core that can be dynamically reconfigured to either the encoding stage or the classification stage, enhancing parallelism and throughput. We introduce a photonic record-based encoding scheme that leverages the wavelength-division multiplexing (WDM) and free spectral range (FSR) properties to improve the efficiency of the encoding stage. Additionally, we propose a customized high-speed photonic similarity check module that supports the calculation of Cosine similarity distance, enabling accurate classification results.
+    
+        ![Image](:project1_thumb.jpg)  # 替换为项目图片的路径
+
