@@ -56,4 +56,45 @@ page_data:
         In this paper, we propose the first Photonic Hyperdimensional Computing (HDC) accelerator to overcome the challenges of high-dimensional data processing. Our accelerator incorporates a Microring-based homogenous configurable Photon-Core that can be dynamically reconfigured to either the encoding stage or the classification stage, enhancing parallelism and throughput. We introduce a photonic record-based encoding scheme that leverages the wavelength-division multiplexing (WDM) and free spectral range (FSR) properties to improve the efficiency of the encoding stage. Additionally, we propose a customized high-speed photonic similarity check module that supports the calculation of Cosine similarity distance, enabling accurate classification results.
     
         ![Image](:project1_thumb.jpg)  # 替换为项目图片的路径
+        
+    - type: id_finished  # 这里需要替换成相应的分类标识，例如id_finished或id_ongoing
+      project_name: "OpticalHDC: Ultra-fast Photonic Hyperdimensional Computing Accelerator"
+      project_excerpt: "Finished"  # 这里根据项目状态可以进行调整
+      img: ":project2_thumb.jpg"  # 替换为项目图片的路径
+      img_title: "OpticalHDC Project Image"  # 图片标题
+      date: "2024-01-03"  # 根据实际日期进行调整
+      post: |
+        # PhotonGraph: Photonic Accelerator for Graph Processing Algorithms
+        **Authors:** Jiaqi Liu, Xianbin Li, Xinyu Chen, Yinyi Liu, Peiyu Chen, Fan Jiang, Wei Zhang, Jiang Xu.
+        
+        In this paper, we propose Theia, the first-ever phtonic accelerator for graph processing. The photonic cores in Theia which leverages Microring resonators to perform ultra-high-speed graph computations in the optical domain. Its architecture also incorporates the HBM-enabled optical network-on-chip (ONoC) to address the stringent memory access requirements of large-scale graph processing models. Additionally, a specialized data mapping scheme utilizing wavelength routing is introduced to enhance the efficient shuffling and routing of data structures in sparse and irregular graphs.
+        
+        ![Image](:project2_thumb.jpg)  # 替换为项目图片的路径
+        
+    - type: id_finished  # 这里需要替换成相应的分类标识，例如id_finished或id_ongoing
+      project_name: "OpticalHDC: Ultra-fast Photonic Hyperdimensional Computing Accelerator"
+      project_excerpt: "Finished"  # 这里根据项目状态可以进行调整
+      img: ":project2_thumb.jpg"  # 替换为项目图片的路径
+      img_title: "OpticalHDC Project Image"  # 图片标题
+      date: "2024-01-03"  # 根据实际日期进行调整
+      post: |
+        # Towards Accelerating Hyperdimensional Computing with FPGA
+        **Authors:** Jiaqi Liu, Xianbin Li, Xinyu Chen, Yinyi Liu, Peiyu Chen, Fan Jiang, Wei Zhang, Jiang Xu.
+        
+        In this study, we present the first-ever Hyperdimensional Computing (HDC) accelerator based on Versal ACAP AIEngine designed to address the challenges associated with high-dimensional data processing. Our proposed accelerator features a homogeneous AIEngine array that can be dynamically reconfigured for either the encoding or classification stage, thereby enhancing parallelism and throughput. We also introduce a parallel record-based encoding computing scheme that capitalizes on the on-chip network to optimize the efficiency of the encoding stage. Moreover, we propose a customized high-speed very-long-instruction-width (VLIW)-based similarity check module capable of calculating Cosine similarity distance, which facilitates accurate classification results.
+        
+        ![Image](:project2_thumb.jpg)  # 替换为项目图片的路径
+
+    - type: id_finished  # 这里需要替换成相应的分类标识，例如id_finished或id_ongoing
+      project_name: "OpticalHDC: Ultra-fast Photonic Hyperdimensional Computing Accelerator"
+      project_excerpt: "Finished"  # 这里根据项目状态可以进行调整
+      img: ":project2_thumb.jpg"  # 替换为项目图片的路径
+      img_title: "OpticalHDC Project Image"  # 图片标题
+      date: "2024-01-03"  # 根据实际日期进行调整
+      post: |
+        # PhotonNTT: PhotonNTT: Energy-efficient Parallel Photonic Number Theoretic Transform Accelerator
+        **Authors:** Xianbin Li(co-first author), Jiaqi Liu(co-first author), Yuying Zhang, Yinyi Liu, Jiaxu Zhang, Chengeng Li, Shixi Chen, Yuxiang Fu, Fengshi Tian, Wei Zhang, Jiang Xu*; Design, Automation and Test in Europe Conference and Exhibition (DATE), Valencia, Spain
+        
+        For the first time, we present a photonic NTT accelerator, PhotonNTT, with high energy efficiency and parallelism to address the above challenge. Our approach involves formulating the NTT into matrix-vector multiplication (MVM) operations and mapping the data flow into parallel photonic MVM units. A dedicated data mapping scheme is proposed to introduce free spectral range (FSR) and distributed RAM design into the system, which enables a high bit-wise parallelism level. The system's reliability is validated through the Monte-Carlo bit error rate (BER) analysis. The experimental evaluation shows that the proposed architecture outperforms SOTA CIM-based NTT accelerators with an improvement of 50x in throughput and 63x improvement in energy efficiency.        
+        ![Image](:project2_thumb.jpg)  # 替换为项目图片的路径
 
