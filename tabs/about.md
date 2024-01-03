@@ -69,7 +69,8 @@ SCNoCs: An Adaptive Heterogeneous Multi-NoC with Selective Compression and Power
 Fan Jiang(co-first author), Chengeng Li(co-first author), Lin Chen, *Jiaqi Liu*, Wei Zhang, Jiang Xu*; IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, South Korea, January 2024.                                                     
 
 PhotonNTT: Energy-efficient Parallel Photonic Number Theoretic Transform Accelerator
-Xianbin Li(co-first author), *Jiaqi Liu*(co-first author), Yuying Zhang, Yinyi Liu, Jiaxu Zhang, Chengeng Li, Shixi Chen, Yuxiang Fu, Fengshi Tian, Wei Zhang, Jiang Xu*; Design, Automation and Test in Europe Conference and Exhibition (DATE), Valencia, Spain, March 2024.                                                                                                                                                                                             
+Xianbin Li(co-first author), *Jiaqi Liu*(co-first author), Yuying Zhang, Yinyi Liu, Jiaxu Zhang, Chengeng Li, Shixi Chen, Yuxiang Fu, Fengshi Tian, Wei Zhang, Jiang Xu*; Design, Automation and Test in Europe Conference and Exhibition (DATE), Valencia, Spain, March 2024.                                                                                                  
+
 Towards Scalable GPU System with Silicon Photonic Chiplet
 Chengeng Li(co-first author), Fan Jiang(co-first author), Shixi Chen, Xianbin Li, *Jiaqi Liu*, Wei Zhang, Jiang Xu*; Design, Automation and Test in Europe Conference and Exhibition (DATE), Valencia, Spain, March 2024.                                           
 
