@@ -27,7 +27,7 @@ page_data:
     - type: id_finished
       project_name: "PHANES: Optical Interconnect ReRAM Accelerator"
       project_excerpt: "Finished"
-      img: ":project2_thumb.jpg"
+      img: ":project3_thumb.jpg"
       img_title: "img title2"
       date: "2021-09-30"
       post: |
@@ -41,14 +41,14 @@ page_data:
         
         ### Link
         This is [link to the paper published on DAC'22](https://dl.acm.org/doi/10.1145/3489517.3530397).
-        ![Image](:project2_thumb.jpg)
+        ![Image](:project3_thumb.jpg)
 
     - type: id_finished 
       project_name: "Towards Ultra-fast Photonic Hyperdimensional Computing Accelerator"
       project_excerpt: "Finished"  
       img: ":project1_thumb.jpg"  
       img_title: "OpticalHDC Project Image" 
-      date: "2024-01-03"  
+      date: "2023-09-03"  
       post: |
         # Towards Ultra-fast Photonic Hyperdimensional Computing Accelerator
         **Authors:** Jiaqi Liu, Peiyu Chen, Wei Zhang, Jiang Xu.
@@ -62,7 +62,7 @@ page_data:
       project_excerpt: "Finished"  
       img: ":project2_thumb.jpg" 
       img_title: "PhotonGraph Project Image" 
-      date: "2024-01-03" 
+      date: "2023-05-03" 
       post: |
         # PhotonGraph: Photonic Accelerator for Graph Processing Algorithms
         **Authors:** Jiaqi Liu, Xianbin Li, Xinyu Chen, Yinyi Liu, Peiyu Chen, Fan Jiang, Wei Zhang, Jiang Xu.
@@ -74,40 +74,81 @@ page_data:
     - type: id_finished  
       project_name: "Accelerating Hyperdimensional Computing"
       project_excerpt: "Finished"  
-      img: ":project2_thumb.jpg"  
+      img: ":project1_thumb.jpg"  
       img_title: "ACCL Project Image"  
-      date: "2024-01-03"  
+      date: "2023-11-15"  
       post: |
         # ACCL: Towards Accelerating Hyperdimensional Computing with FPGA
         **Authors:** Jiaqi Liu, Xianbin Li, Xinyu Chen, Yinyi Liu, Peiyu Chen, Fan Jiang, Wei Zhang, Jiang Xu.
         
         In this study, we present the first-ever Hyperdimensional Computing (HDC) accelerator based on Versal ACAP AIEngine designed to address the challenges associated with high-dimensional data processing. Our proposed accelerator features a homogeneous AIEngine array that can be dynamically reconfigured for either the encoding or classification stage, thereby enhancing parallelism and throughput. We also introduce a parallel record-based encoding computing scheme that capitalizes on the on-chip network to optimize the efficiency of the encoding stage. Moreover, we propose a customized high-speed very-long-instruction-width (VLIW)-based similarity check module capable of calculating Cosine similarity distance, which facilitates accurate classification results.
         
-        ![Image](:project2_thumb.jpg) 
+        ![Image](:project1_thumb.jpg) 
 
     - type: id_finished 
       project_name: "PhotonNTT: Energy-efficient Parallel Photonic Number Theoretic Transform Accelerator"
       project_excerpt: "Finished" 
-      img: ":project2_thumb.jpg" 
+      img: ":project4_thumb.jpg" 
       img_title: "PhotonNTT Project Image" 
-      date: "2024-01-03" 
+      date: "2023-10-03" 
       post: |
         # PhotonNTT: Energy-efficient Parallel Photonic Number Theoretic Transform Accelerator
         **Authors:** Xianbin Li(co-first author), Jiaqi Liu(co-first author), Yuying Zhang, Yinyi Liu, Jiaxu Zhang, Chengeng Li, Shixi Chen, Yuxiang Fu, Fengshi Tian, Wei Zhang, Jiang Xu*; Design, Automation and Test in Europe Conference and Exhibition (DATE), Valencia, Spain
         
         For the first time, we present a photonic NTT accelerator, PhotonNTT, with high energy efficiency and parallelism to address the above challenge. Our approach involves formulating the NTT into matrix-vector multiplication (MVM) operations and mapping the data flow into parallel photonic MVM units. A dedicated data mapping scheme is proposed to introduce free spectral range (FSR) and distributed RAM design into the system, which enables a high bit-wise parallelism level. The system's reliability is validated through the Monte-Carlo bit error rate (BER) analysis. The experimental evaluation shows that the proposed architecture outperforms SOTA CIM-based NTT accelerators with an improvement of 50x in throughput and 63x improvement in energy efficiency.        
-        ![Image](:project2_thumb.jpg) 
+        ![Image](:project4_thumb.jpg) 
 
     - type: id_finished 
       project_name: "Learning Styles Identification Model in a MOOC Learning Environment"
       project_excerpt: "Finished" 
-      img: ":project2_thumb.jpg" 
+      img: ":project3_thumb.jpg" 
       img_title: "Learning Style Project Image" 
-      date: "2024-01-03" 
+      date: "2022-05-03" 
       post: |
         # Learning Styles Identification Model in a MOOC Learning Environment
         **Authors:** Huang Jingya, Jiaqi Liu, International Conference on Computer Science and Education(ICCSE), Ningbo, China
         
         Different online learners have different learning styles that are influenced by their prior knowledge and personalities, which necessitates the use of an online platform to identify these learning behaviors in order to enhance the course. Based on the Felder-Silverman model, we offer a novel learning style theory model suitable for MOOC education environments in this work. Then we extract high-dimensional features from the MOOCCube data set produced from China's XuetangX platform. Furthermore, to identify online users' learning styles, we apply a two-level hierarchical learning style classification model. First, a learning autonomy classification model is used to filter inactive learners by collecting the learner autonomy index from the data set. Then, to detect distinct learning styles, we construct a clustering-based behavior identification model using the Gaussian Mixture Model. Our hierarchical classification model demonstrates great capability and enables researchers to conduct analytical studies on the learning patterns of online learners.
-        ![Image](:project2_thumb.jpg) 
+        ![Image](:project3_thumb.jpg) 
 
+    - type: id_finished 
+      project_name: "FIONA: Photonic-Electronic Co-Simulation Framework and Transferable Prototyping for Photonic Accelerator"
+      project_excerpt: "Finished" 
+      img: ":project1_thumb.jpg" 
+      img_title: "FIONA Project" 
+      date: "2023-07-03" 
+      post: |
+        # FIONA: Photonic-Electronic Co-Simulation Framework and Transferable Prototyping for Photonic Accelerator
+        **Authors:** Yinyi Liu(co-first author), Bohan Hu(co-first author), Zhenguo Liu, Peiyu Chen, Linfeng Du, Jiaqi Liu, Xianbin Li, Wei Zhang, Jiang Xu*; IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, California, USA
+        
+        Recent advances in the architecture design for photonic accelerators have demonstrated great promise to accelerate deep neural network (DNN) applications, and also allude to the essential collaboration of the electronic subsystems for efficient logic arithmetic and memory access. However, available tools to design and evaluate photonic accelerators usually neglect the cross-stack effects or low-level details in real-world scenarios, ranging from programming-stack inefficiency to electronic peripheral implementation complexity. This frustrating fact makes it difficult to holistically estimate the performance metrics of a practical photonic-electronic collaborative computing system. In addition, until now, no toolchain can provide programmable, hardware-reconfigurable, and end-to-end rapid verification for photonic accelerators. Here we present FIONA, a Full-stack Infrastructure for Optical Neural Accelerator, which comprises a photonic-electronic co-simulation framework for multilevel design space exploration (DSE), and a transferable hardware prototyping template for physical verification. Specifically, the co-simulation framework consists of a functional simulator at the instruction set architecture (ISA) level to agilely verify the programming software stack and a register-transfer level (RTL) cycle-accurate simulator to precisely profile the overall system. We also demonstrate LightRocket as a case study of the FIONA toolchain to show the full workflow of designing a Turing-complete photonic accelerator system that supports arbitrary DNN workloads and on-chip training. The toolchain is open-sourced and available at https://github.com/hkust-fiona/
+        
+        ![Image](:project1_thumb.jpg) 
+        
+    - type: id_finished 
+      project_name: "Towards Scalable GPU System with Silicon Photonic Chiplet"
+      project_excerpt: "Finished" 
+      img: ":project2_thumb.jpg" 
+      img_title: "Photonic GPU Chiplet Project Image" 
+      date: "2023-11-03" 
+      post: |
+        # Towards Scalable GPU System with Silicon Photonic Chiplet
+        **Authors:** Chengeng Li(co-first author), Fan Jiang(co-first author), Shixi Chen, Xianbin Li, Jiaqi Liu, Wei Zhang, Jiang Xu*; Design, Automation and Test in Europe Conference and Exhibition (DATE), Valencia, Spain
+        
+        My Role: Brainstorm the photonic part and provide further insight to improve the hardware design. Participated as a co-author and help the first-author revise the paper. 
+        
+        ![Image](:project2_thumb.jpg) 
+        
+    - type: id_finished 
+      project_name: "SCNoCs: An Adaptive Heterogeneous Multi-NoC with Selective Compression and Power Gating"
+      project_excerpt: "Finished" 
+      img: ":project2_thumb.jpg" 
+      img_title: "SCNoCs Project Image" 
+      date: "2023-11-03" 
+      post: |
+        # SCNoCs: An Adaptive Heterogeneous Multi-NoC with Selective Compression and Power Gating
+        **Authors:** Fan Jiang(co-first author), Chengeng Li(co-first author), Lin Chen, Jiaqi Liu, Wei Zhang, Jiang Xu*; IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, South Korea
+
+        My Role: I participated as a co-author and help the first authors Chengeng and Fan to revise the paper.
+        
+        ![Image](:project2_thumb.jpg) 
