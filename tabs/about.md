@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About KaKei
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_about
 
@@ -40,15 +40,41 @@ img: ":about.jpg"
 
 <!-- Your custom text content starts here -->
 
-# Liu Jiaqi (Rick)
+# LAU Ka Kei(LIU Jiaqi)
 
-Greetings! I am Liu Jiaqi, affectionately known as Rick. Currently, I am immersed in the complexities of my Ph.D. studies in electronic and computer engineering at HKUST. With a robust academic background from Sun Yat-sen University, where I specialized in Microelectronics Science and Engineering, I graduated with a distinguished GPA of 3.9/4.0.
+Greetings! I am LAU Ka Kei, affectionately known as Rick. Currently, I am immersed in the complexities of my Ph.D. studies in electronic and computer engineering at HKUST. With a robust academic background from Sun Yat-sen University, where I specialized in Microelectronics Science and Engineering, I graduated with a distinguished GPA of 3.9/4.0.
 
 # FreeCircuit
 Currently, I am the Founder of FreeCircuit Team:)
 
 We are actively looking for cooperations including Funding/Tech/Business/Connections!
 
+# Publication
+*PHANES: ReRAM-based Photonic Accelerators for Deep Neural Networks*
+Yinyi Liu(co-first author), *Jiaqi Liu*(co-first author), Yuxiang Fu, Shixi Chen, Jiaxu Zhang, Jiang Xu*; ACM/IEEE Design Automation Conference (DAC), San Francisco, California, USA, July 2022.                                                                               
+
+*OpticalHDC: Ultra-fast Photonic Hyperdimensional Computing Accelerator*                                                                                        
+*Jiaqi Liu*, Peiyu Chen, Yuxiang Fu, Shixi Chen, Jiang Xu. In submission to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems                                                                                                                                                                        
+
+*Towards Graph Acceleration with High-Performance Photonic Accelerators*                                                                                                                                     
+*Jiaqi Liu*, Xianbin Li, Xinyu Chen, Yinyi Liu, Peiyu Chen, Fan Jiang, Wei Zhang, Jiang Xu. In submission.                                                                                                                                                                    
+
+Towards Accelerating Hyperdimensional Computing with New FPGA                                                                         
+*Jiaqi Liu*, Hao Yang, Wei Zhang, Jiang Xu. In submission.                    
+
+FIONA: Photonic-Electronic Co-Simulation Framework and Transferable Prototyping for Photonic Accelerator
+Yinyi Liu(co-first author), Bohan Hu(co-first author), Zhenguo Liu, Peiyu Chen, Linfeng Du, *Jiaqi Liu*, Xianbin Li, Wei Zhang, Jiang Xu*; IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, California, USA, October 2023        
+
+SCNoCs: An Adaptive Heterogeneous Multi-NoC with Selective Compression and Power Gating
+Fan Jiang(co-first author), Chengeng Li(co-first author), Lin Chen, *Jiaqi Liu*, Wei Zhang, Jiang Xu*; IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, South Korea, January 2024.                                                     
+
+PhotonNTT: Energy-efficient Parallel Photonic Number Theoretic Transform Accelerator
+Xianbin Li(co-first author), *Jiaqi Liu*(co-first author), Yuying Zhang, Yinyi Liu, Jiaxu Zhang, Chengeng Li, Shixi Chen, Yuxiang Fu, Fengshi Tian, Wei Zhang, Jiang Xu*; Design, Automation and Test in Europe Conference and Exhibition (DATE), Valencia, Spain, March 2024.                                                                                                                                                                                             
+Towards Scalable GPU System with Silicon Photonic Chiplet
+Chengeng Li(co-first author), Fan Jiang(co-first author), Shixi Chen, Xianbin Li, *Jiaqi Liu*, Wei Zhang, Jiang Xu*; Design, Automation and Test in Europe Conference and Exhibition (DATE), Valencia, Spain, March 2024.                                           
+
+Learning Styles Identification Model in a MOOC Learning Environment
+J Huang, *Jiaqi Liu* International Conference on Computer Science and Education, 234-244       
 
 ## Personal Research Interests
 My investigative pursuits are twofold, encompassing AI chip design bolstered by large language models and the architectures and compilers aimed at accelerating these extensive AI models.
